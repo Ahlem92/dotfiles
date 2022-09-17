@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ahlem.belkrorissat@gmail.com
+	name = Ahlem Belkrorissat
